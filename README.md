@@ -1,4 +1,4 @@
-# Oneul1213's Github Profile
+# Oneul's Github Profile
 
 ### Github Status
 ![Oneul1213's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oneul1213&theme=vue&show_icons=true)
