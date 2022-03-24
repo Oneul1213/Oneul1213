@@ -5,5 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oneul1213&layout=compact&theme=vue)](https://github.com/oneul1213/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={bbtfly98})](https://solved.ac/{bbtfly98})
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={bbtfly98})](https://solved.ac/{bbtfly98})
