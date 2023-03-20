@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Oneul(Jeongsang Im)
-<b>Android 개발</b>에 관심을 가지고 있습니다.
+### Junior Mobile 개발자
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbtfly98)](https://solved.ac/bbtfly98)
