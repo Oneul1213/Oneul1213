@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Oneul
+# 👨🏻‍💻 임정상(Oneul1213)
 ### 모바일 개발자(Mobile Developer) - Junior
 하고 싶은 건 다 하고 살고 싶은 맥시멀리스트 개발자입니다 😎
 
